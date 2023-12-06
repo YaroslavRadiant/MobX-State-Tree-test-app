@@ -1,0 +1,23 @@
+.App-wrapper {
+  max-width: 600px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.UsersList button {
+  margin-left: 35px;
+}
+.UserItem {
+  display: flex;
+  align-items: center;
+  padding: 15px 15px 15px 0;
+  height: 30px;
+}
+
+.UserItem button {
+  margin-left: 15px;
+}
+
+.UserItem-name {
+  width: 177px;
+}
